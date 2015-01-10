@@ -1,0 +1,30 @@
+{
+  "name": "ampersand-grid-view",
+  "main": "grid.js",
+  "version": "0.9.0",
+  "description": "A collection backed grid view.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/simme/ampersand-grid-view"
+  },
+  "keywords": [
+    "ampersand",
+    "view",
+    "collection",
+    "grid"
+  ],
+  "author": "Simon Ljungberg <hi@iamsim.me> (http://iamsim.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simme/ampersand-grid-view/issues"
+  },
+  "homepage": "https://github.com/simme/ampersand-grid-view",
+  "dependencies": {
+    "ampersand-class-extend": "^1.0.1",
+    "backbone-events-standalone": "^0.2.4",
+    "underscore": "^1.7.0"
+  }
+}
