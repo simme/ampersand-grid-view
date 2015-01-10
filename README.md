@@ -116,7 +116,7 @@ different kinds of views you can set the `view` option to an object where the
 keys match `model.type || model.getType()` and the value is a matching view
 constructor.
 
-## Performance Concernts
+## Performance Concerns
 
 All the views will be absolutely positioned within it's container. This is to
 make the layout job for the browser easier. DOM operations are also somewhat
